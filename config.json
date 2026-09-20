@@ -1,0 +1,622 @@
+{
+  "default_lang": "ar",
+  "birth_date": "2005-03-22",
+  "hero_photo_focus": "50% 30%",
+  "ar": {
+    "lang": "ar",
+    "dir": "rtl",
+    "page_title": "مبروك التخرج يا جنحوني",
+    "her_name": "جنى",
+    "from_name": "أحمد",
+    "graduation_year": "2026",
+    "university": "الجامعة العربية المفتوحة - مصر",
+    "major": "حاسبات ومعلومات",
+    "ui": {
+      "switch_label": "EN",
+      "music": "الموسيقى",
+      "close": "إغلاق",
+      "prev": "السابق",
+      "next": "التالي",
+      "play": "تشغيل تلقائي",
+      "pause": "إيقاف",
+      "seal_hint": "اضغطي هنا",
+      "photo": "صورة"
+    },
+    "intro": {
+      "line": "في مفاجأة اتعملت مخصوص عشانك يا حبيبي",
+      "button": "افتحي المفاجأة"
+    },
+    "hero": {
+      "kicker": "Class of 2026",
+      "title": "مبروك التخرج",
+      "subtitle": "سنين من التعب والسهر والحلم، وأخيراً بقيتي خريجة وبشمهندسه قد الدنيا يا جنى. أنا فخور بيكي أكتر من أي كلام ممكن يتقال.",
+      "scroll_hint": "كملي تحت، لسه في مفاجاااات"
+    },
+    "achievements": {
+      "label": "إنجاز جديد",
+      "items": [
+        {
+          "id": "hero",
+          "icon": "🎓",
+          "title": "خريجة!",
+          "text": "بكالوريوس حاسبات ومعلومات"
+        },
+        {
+          "id": "journey",
+          "icon": "🔥",
+          "title": "الإصرار",
+          "text": "مفيش تعب وقّفك ولا اي حاجه في الدنيا تقدرلك"
+        },
+        {
+          "id": "age",
+          "icon": "⏳",
+          "title": "لحظة بلحظة",
+          "text": "كل ثانية كانت بتوصّلك هنا ولسى كمان في اكتر "
+        },
+        {
+          "id": "terminal",
+          "icon": "💻",
+          "title": "Compiled successfully",
+          "text": "صفر errors في أهم مشروع"
+        },
+        {
+          "id": "gallery",
+          "icon": "📸",
+          "title": "ذكريات",
+          "text": "لحظات تستاهل تتحفظ لاخر العمر كل خطوه خدناها سوا"
+        },
+        {
+          "id": "reasons",
+          "icon": "💛",
+          "title": "عارفة ليه؟",
+          "text": "الأسباب كتير أوي مهما قلت مش هخلص"
+        },
+        {
+          "id": "balloons",
+          "icon": "🎈",
+          "title": "أمنيات",
+          "text": "فرقعي وشوفي"
+        },
+        {
+          "id": "scratch",
+          "icon": "🔓",
+          "title": "سر مستخبي",
+          "text": "شخبطي هنا واكتشفي "
+        },
+        {
+          "id": "letter",
+          "icon": "💌",
+          "title": "رسالة",
+          "text": "مكتوبة من كل قلبي"
+        },
+        {
+          "id": "finale",
+          "icon": "🏆",
+          "title": "100%",
+          "text": "Graduated"
+        }
+      ]
+    },
+    "journey": {
+      "title": "رحلتك من أول يوم",
+      "subtitle": "كل سنة كان فيها حكاية وكل لحظه كانت احسن من قبلها",
+      "stats": [
+        {
+          "value": 4,
+          "label": "سنين اجتهاد"
+        },
+        {
+          "value": 1000,
+          "suffix": "+",
+          "label": "كوباية قهوة تقريباً من الي طلعو عيني وتعبوكي "
+        },
+        {
+          "value": 1,
+          "label": "حلم اتحقق ولسى الباقيييييي"
+        }
+      ],
+      "items": [
+        {
+          "year": "سنة أولى",
+          "title": "البداية",
+          "text": "أول يوم في الجامعة، وأول خطوة في طريق طويل كان محتاج شجاعة."
+        },
+        {
+          "year": "سنة تانية",
+          "title": "التعوّد",
+          "text": "محاضرات وامتحانات وسهر، وكل مرة كنتي بتثبتي إنك أقوى من اللي فات."
+        },
+        {
+          "year": "سنة تالتة",
+          "title": "الإصرار",
+          "text": "السنة اللي التعب فيها كان أكبر، بس إصرارك كان أكبر منه."
+        },
+        {
+          "year": "سنة رابعة",
+          "title": "السباق الأخير",
+          "text": "مشاريع وتسليمات وأيام بتجري، وإنتي ماسكة الطريق لآخره."
+        },
+        {
+          "year": "2026",
+          "title": "التخرج",
+          "text": "اللحظة اللي استنيناها كلنا، وتستاهلي كل فرحة فيها."
+        }
+      ]
+    },
+    "age": {
+      "title": "كل ثانية وصلتك للحظة دي",
+      "subtitle": "الوقت اللي عدّى من يوم ما اتولدتي، وهو بيعدّ قدامك دلوقتي",
+      "lead": "اتولدتي يوم 22-3-2005، ودلوقتي عندك",
+      "ymd": {
+        "y": "سنة",
+        "m": "شهر",
+        "d": "يوم"
+      },
+      "units": {
+        "days": "يوم",
+        "hours": "ساعة",
+        "minutes": "دقيقة",
+        "seconds": "ثانية"
+      },
+      "foot": "وكل ثانية فيهم كانت بتحضّرك للحظة النهاردة."
+    },
+    "terminal": {
+      "title": "كود التخرج",
+      "subtitle": "مفاجأة صغيرة لأحلى خريجة علوم حاسب",
+      "window_title": "jana@graduation: ~",
+      "prompt": "$ ",
+      "lines": [
+        {
+          "type": "cmd",
+          "text": "whoami"
+        },
+        {
+          "type": "out",
+          "text": "jana"
+        },
+        {
+          "type": "cmd",
+          "text": "cat degree.txt"
+        },
+        {
+          "type": "out",
+          "text": "B.Sc. Computer Science - Arab Open University"
+        },
+        {
+          "type": "cmd",
+          "text": "python graduate.py"
+        },
+        {
+          "type": "ok",
+          "text": "Loading 4 years of hard work ........ done"
+        },
+        {
+          "type": "ok",
+          "text": "Compiling sleepless nights .......... done"
+        },
+        {
+          "type": "ok",
+          "text": "Fixing 1,000,000 bugs ............... done"
+        },
+        {
+          "type": "ok",
+          "text": "Passing final exams ................. done"
+        },
+        {
+          "type": "out",
+          "text": "Exit code 0  (0 errors, 1 degree)"
+        },
+        {
+          "type": "cmd",
+          "text": "echo \"Congratulations Jana\""
+        },
+        {
+          "type": "out",
+          "text": "Congratulations Jana"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "لحظات مش هتتنسي",
+      "subtitle": "اضغطي على أي صورة تكبرها",
+      "captions": {
+        "1.jpg": "",
+        "2.jpg": ""
+      }
+    },
+    "thennow": {
+      "title": "كنا فين وبقينا فيييننننن ياجنى ",
+      "subtitle": "اسحبي الخط بين الصورتين",
+      "then": "زمان",
+      "now": "دلوقتي"
+    },
+    "reasons": {
+      "title": "ليه أنا فخور بيكي",
+      "subtitle": "اضغطي على كل كارت",
+      "items": [
+        {
+          "icon": "✦",
+          "title": "إصرارك",
+          "text": "عمرك ما وقفتي عند أول صعوبة. كنتي دايماً بتكملي."
+        },
+        {
+          "icon": "❋",
+          "title": "ذكاؤك",
+          "text": "بتفهمي بسرعة وبتحلي اللي غيرك بيقول عنه مستحيل، حتى الكود اللي مش شغال."
+        },
+        {
+          "icon": "❖",
+          "title": "طيبتك",
+          "text": "قلبك الطيب هو اللي بيخلي كل اللي حواليكي يحبوكي."
+        },
+        {
+          "icon": "✧",
+          "title": "طموحك",
+          "text": "أحلامك كبيرة، وإنتي أكبر منها."
+        },
+        {
+          "icon": "✺",
+          "title": "قوتك",
+          "text": "في أصعب الأيام كنتي بتوقفي على رجلك وتكملي."
+        },
+        {
+          "icon": "❁",
+          "title": "نورك",
+          "text": "وجودك بيفرق، وأي مكان بتدخليه بيبقى أحلى."
+        }
+      ]
+    },
+    "balloons": {
+      "title": "اطلعي أمنياتك",
+      "subtitle": "فرقعي البلالين وشوفي إيه اللي مستنيكي",
+      "count": "{n} / {total}",
+      "done": "كل أمنياتك اتحققت بإذن الله!",
+      "wishes": [
+        "تتوظفي في شركة أحلامك",
+        "صحة وسعادة طول العمر",
+        "تسافري وتشوفي الدنيا",
+        "كل حلم تحلمي بيه يتحقق",
+        "أيامك كلها فرحة",
+        "ولا يوم يعدّي من غير ضحكة",
+        "تفضلي فخورة بنفسك دايماًوتكوني ديما مرتاحه معايا واكون قادر ادعمك زي ما انتي محتاجه"
+      ]
+    },
+    "scratch": {
+      "title": "في مفاجأة مستخبية",
+      "subtitle": "شخبطي على الكارت بصباعك",
+      "hint": "شخبطي هنا",
+      "reveal_title": "أجمل خريجة",
+      "reveal_text": "وعد مني إني هفضل جنبك في كل خطوة جاية."
+    },
+    "letter": {
+      "title": "رسالة ليكي",
+      "greeting": "إلى جنى،",
+      "paragraphs": [
+        "النهاردة مش يوم عادي. النهاردة إنتي بتقفلي فصل كامل من حياتك بإيدك، وبتفتحي فصل جديد بإيدك برضو.",
+        "أنا شفتك في الأيام اللي كنتي فيها تعبانة أوي، وسهرانة، وحاسة إن الدنيا كلها على كتفك. وشفتك برضو وإنتي كل مرة بتقومي وبتكملي. ده اللي خلاني أفتخر بيكي أكتر.",
+        "تعبك ما ضاعش. كل ليلة سهرتيها، وكل امتحان دخلتيه، وكل مرة قلتي فيها مش قادرة وبعدها قدرتي، كلها اتحولت للحظة النهاردة.",
+        "التخرج مش نهاية الطريق، ده بداية الطريق الحقيقي. وأنا متأكد إن اللي جاي أحلى، لأنك تستاهلي كل حاجة حلوة.",
+        "مبروك يا جنى. أنا فخور بيكي جداً، وهفضل جنبك دايماً.",
+        "انا عارف انها متاخره اوي بس بجد انا كنت نفسي اعملها من زمان ونفسي اوصلهالك بالطريقه الحلوه دي و ان ديما فخور بيكي وواثق فيكي وفي قدراتك وطموحاتك واجتهادك يا اجمل بشمهندسه في الكون كله"
+      ],
+      "closing": "بحبك وفخور بيكي دايماً،",
+      "signature": "أحمد",
+      "ps": "ملحوظة: عملت الموقع ده مخصوص عشانك، وكل تفصيلة فيه فكرت فيها وأنا بفكر فيكي."
+    },
+    "finale": {
+      "title": "ألف مبروك يا جنى",
+      "text": "دي أول خطوة بس. الجاي أجمل بإذن الله، وأنا معاكي فيه.",
+      "button": "اضغطي هنا عشان لسى مخلصتش",
+      "top": "ارجعي للأول"
+    },
+    "footer": "اتعمل بحب من أحمد إلى جنى"
+  },
+  "en": {
+    "lang": "en",
+    "dir": "ltr",
+    "page_title": "Congratulations Jana",
+    "her_name": "Jana",
+    "from_name": "Ahmed",
+    "graduation_year": "2026",
+    "university": "Arab Open University, Egypt",
+    "major": "Computer Science",
+    "ui": {
+      "switch_label": "عربي",
+      "music": "Music",
+      "close": "Close",
+      "prev": "Previous",
+      "next": "Next",
+      "play": "Autoplay",
+      "pause": "Pause",
+      "seal_hint": "Tap the seal",
+      "photo": "Photo"
+    },
+    "intro": {
+      "line": "Something special was made just for you, Jana",
+      "button": "Open your surprise"
+    },
+    "hero": {
+      "kicker": "Class of 2026",
+      "title": "Congratulations",
+      "subtitle": "Years of hard work, late nights and big dreams, and you are finally a Computer Science graduate, {name}. I am prouder of you than words can say.",
+      "scroll_hint": "Keep scrolling, there is more"
+    },
+    "achievements": {
+      "label": "Achievement unlocked",
+      "items": [
+        {
+          "id": "hero",
+          "icon": "🎓",
+          "title": "Graduated!",
+          "text": "B.Sc. in Computer Science"
+        },
+        {
+          "id": "journey",
+          "icon": "🔥",
+          "title": "Determination",
+          "text": "Nothing could stop you"
+        },
+        {
+          "id": "age",
+          "icon": "⏳",
+          "title": "Moment by moment",
+          "text": "Every second led you here"
+        },
+        {
+          "id": "terminal",
+          "icon": "💻",
+          "title": "Compiled successfully",
+          "text": "Zero errors in the biggest project"
+        },
+        {
+          "id": "gallery",
+          "icon": "📸",
+          "title": "Memories",
+          "text": "Moments worth keeping"
+        },
+        {
+          "id": "reasons",
+          "icon": "💛",
+          "title": "Wondering why?",
+          "text": "There are so many reasons"
+        },
+        {
+          "id": "balloons",
+          "icon": "🎈",
+          "title": "Wishes",
+          "text": "Pop them and see"
+        },
+        {
+          "id": "scratch",
+          "icon": "🔓",
+          "title": "Secret found",
+          "text": "Scratch to discover"
+        },
+        {
+          "id": "letter",
+          "icon": "💌",
+          "title": "A letter",
+          "text": "Written from the heart"
+        },
+        {
+          "id": "finale",
+          "icon": "🏆",
+          "title": "100%",
+          "text": "Graduated"
+        }
+      ]
+    },
+    "journey": {
+      "title": "Your journey since day one",
+      "subtitle": "Every year had its own story",
+      "stats": [
+        {
+          "value": 4,
+          "label": "years of hard work"
+        },
+        {
+          "value": 1000,
+          "suffix": "+",
+          "label": "cups of coffee, roughly"
+        },
+        {
+          "value": 1,
+          "label": "dream come true"
+        }
+      ],
+      "items": [
+        {
+          "year": "Year 1",
+          "title": "The beginning",
+          "text": "The first day at university, and the first step on a long road that took courage."
+        },
+        {
+          "year": "Year 2",
+          "title": "Finding your rhythm",
+          "text": "Lectures, exams and late nights, and every time you proved you were stronger than before."
+        },
+        {
+          "year": "Year 3",
+          "title": "Determination",
+          "text": "The year the effort was heaviest, and your determination was heavier."
+        },
+        {
+          "year": "Year 4",
+          "title": "The final sprint",
+          "text": "Projects, deadlines and days rushing by, and you held on all the way to the end."
+        },
+        {
+          "year": "2026",
+          "title": "Graduation",
+          "text": "The moment we all waited for, and you deserve every bit of joy in it."
+        }
+      ]
+    },
+    "age": {
+      "title": "Every second led you here",
+      "subtitle": "The time since the day you were born, counting live right now",
+      "lead": "You were born on 22-3-2005, and today you are",
+      "ymd": {
+        "y": "years",
+        "m": "months",
+        "d": "days"
+      },
+      "units": {
+        "days": "days",
+        "hours": "hours",
+        "minutes": "minutes",
+        "seconds": "seconds"
+      },
+      "foot": "And every one of them was preparing you for today."
+    },
+    "terminal": {
+      "title": "The graduation code",
+      "subtitle": "A tiny surprise for the best Computer Science graduate",
+      "window_title": "jana@graduation: ~",
+      "prompt": "$ ",
+      "lines": [
+        {
+          "type": "cmd",
+          "text": "whoami"
+        },
+        {
+          "type": "out",
+          "text": "jana"
+        },
+        {
+          "type": "cmd",
+          "text": "cat degree.txt"
+        },
+        {
+          "type": "out",
+          "text": "B.Sc. Computer Science - Arab Open University"
+        },
+        {
+          "type": "cmd",
+          "text": "python graduate.py"
+        },
+        {
+          "type": "ok",
+          "text": "Loading 4 years of hard work ........ done"
+        },
+        {
+          "type": "ok",
+          "text": "Compiling sleepless nights .......... done"
+        },
+        {
+          "type": "ok",
+          "text": "Fixing 1,000,000 bugs ............... done"
+        },
+        {
+          "type": "ok",
+          "text": "Passing final exams ................. done"
+        },
+        {
+          "type": "out",
+          "text": "Exit code 0  (0 errors, 1 degree)"
+        },
+        {
+          "type": "cmd",
+          "text": "echo \"Congratulations Jana\""
+        },
+        {
+          "type": "out",
+          "text": "Congratulations Jana"
+        }
+      ]
+    },
+    "gallery": {
+      "title": "Moments we will never forget",
+      "subtitle": "Tap any photo to enlarge it",
+      "captions": {
+        "1.jpg": "",
+        "2.jpg": ""
+      }
+    },
+    "thennow": {
+      "title": "Then and now",
+      "subtitle": "Drag the line between the two photos",
+      "then": "Then",
+      "now": "Now"
+    },
+    "reasons": {
+      "title": "Why I am so proud of you",
+      "subtitle": "Tap each card",
+      "items": [
+        {
+          "icon": "✦",
+          "title": "Your determination",
+          "text": "You never stopped at the first difficulty. You always kept going."
+        },
+        {
+          "icon": "❋",
+          "title": "Your mind",
+          "text": "You learn fast and solve what others call impossible, even the code that will not run."
+        },
+        {
+          "icon": "❖",
+          "title": "Your kindness",
+          "text": "Your kind heart is why everyone around you loves you."
+        },
+        {
+          "icon": "✧",
+          "title": "Your ambition",
+          "text": "Your dreams are big, and you are bigger than them."
+        },
+        {
+          "icon": "✺",
+          "title": "Your strength",
+          "text": "On the hardest days you stood back up and kept going."
+        },
+        {
+          "icon": "❁",
+          "title": "Your light",
+          "text": "You make a difference, and every place you enter gets better."
+        }
+      ]
+    },
+    "balloons": {
+      "title": "Release your wishes",
+      "subtitle": "Pop the balloons and see what is waiting for you",
+      "count": "{n} / {total}",
+      "done": "All your wishes will come true, God willing!",
+      "wishes": [
+        "Land a job at your dream company",
+        "Health and happiness for life",
+        "Travel and see the world",
+        "Every dream you dream comes true",
+        "Days full of joy",
+        "Not a single day without laughter",
+        "Always stay proud of yourself"
+      ]
+    },
+    "scratch": {
+      "title": "A hidden surprise",
+      "subtitle": "Scratch the card with your finger",
+      "hint": "Scratch here",
+      "reveal_title": "The most beautiful graduate",
+      "reveal_text": "I promise to stay by your side in every step ahead."
+    },
+    "letter": {
+      "title": "A letter for you",
+      "greeting": "Dear Jana,",
+      "paragraphs": [
+        "Today is not an ordinary day. Today you close a whole chapter of your life with your own hands, and open a new one with your own hands too.",
+        "I saw you on the days you were exhausted, sleepless, and feeling like the whole world was on your shoulders. And I saw you get back up and keep going, every single time. That is what made me prouder of you.",
+        "Your effort did not go to waste. Every night you stayed up, every exam you walked into, every time you said you could not and then did, all of it turned into today.",
+        "Graduation is not the end of the road, it is the beginning of the real one. And I am sure what is coming is even better, because you deserve every good thing.",
+        "Congratulations, Jana. I am so proud of you, and I will always be by your side."
+      ],
+      "closing": "I love you, and I am always proud of you,",
+      "signature": "Ahmed",
+      "ps": "P.S. I made this site just for you, and I thought of you in every little detail."
+    },
+    "finale": {
+      "title": "Congratulations, Jana",
+      "text": "This is only the first step. What comes next is even better, and I am with you in it.",
+      "button": "Tap to celebrate",
+      "top": "Back to the start"
+    },
+    "footer": "Made with love by Ahmed for Jana"
+  }
+}
